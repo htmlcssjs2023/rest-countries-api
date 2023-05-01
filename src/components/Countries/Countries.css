@@ -1,0 +1,10 @@
+.countries_container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+}
+.container{
+        position: sticky;
+        top: 3rem;
+        z-index: 0;
+
+}
